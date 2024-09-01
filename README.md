@@ -36,7 +36,7 @@ When I started my journey, I faced many obstacles, moments of doubt, and times w
 
 ## 🌱 Always Learning, Always Growing
 
-I believe that **learning** is not a destination but a journey—a continuous process of growth and self-improvement. Each project in this repository represents a new chapter in that journey, a new skill mastered, a new idea explored, or a new problem solved. 📘🌿
+I believe that **learning** is not a destination but a journey—a continuous process of growth and self-improvement.  📘🌿
 
 The world of technology is ever-changing, and to stay ahead, one must be willing to adapt, to learn, and to grow. I am constantly exploring new languages, frameworks, and technologies, pushing myself beyond my comfort zone. My goal is to inspire others to adopt a similar mindset of lifelong learning. After all, the more we learn, the more we realize how much there is yet to discover. 🚀🔍
 
