@@ -1,6 +1,6 @@
 # 🌟 A Journey of Endless Curiosity and Unbreakable Spirit 🌟
 
-**🌈 Welcome to the world of passion!** This repository is not just about code, ideas, or projects—it's about **passion**. It’s about the unstoppable fire that drives a curious mind forward. Here, I share not only my work but also my journey—one filled with a relentless hunger to grow, learn, and make a meaningful impact in the world. 🚀
+**🌈 Welcome to the world of passion!** This repository is not about code, ideas, or projects—it's about **passion**. It’s about the unstoppable fire that drives a curious mind forward. Here, I share not only my work but also my journey—one filled with a relentless hunger to grow, learn, and make a meaningful impact in the world. 🚀
 
 ## 🧑‍💻 Who is Hashim?
 
@@ -61,10 +61,6 @@ This repository is just the beginning—a living, breathing testament to the spi
 ## ✨ Let Your Passion Shine Bright
 
 If there’s one thing I hope you take away from this repository, it’s this: **Never underestimate the power of your passion**. Whatever you choose to do, do it with your whole heart. Be bold, be curious, and always be true to yourself. Passion has the power to transform not just your life but also the lives of those around you. So, let it shine bright and inspire others to find their own path. 🌈💖
-
----
-
-Thank you for taking the time to explore this repository. I hope it inspires you, just as much as it continues to inspire me every day. Your interest and support mean the world to me. Together, let's keep the fire of passion burning bright and keep pushing forward, no matter what! 🔥🔥
 
 **Regards,**  
 **Muhammad Hashim** 🌟
