@@ -26,7 +26,7 @@ I believe that passion, combined with perseverance, can lead to extraordinary th
 
 **Passion** is the energy that turns the impossible into possible. It’s the inner spark that pushes us to go beyond our limits, to reach for something more than just the ordinary. It keeps us awake at night—not out of anxiety but because our dreams are too bright and beautiful to ignore. 🌌
 
-Every project, every line of code, every idea shared in this repository is born out of that passion—a drive to create something meaningful, something that adds value. Passion is the difference between those who dream and those who make their dreams a reality. It’s what makes this journey so fulfilling, so rewarding. 🌺💡
+Passion is the difference between those who dream and those who make their dreams a reality. It’s what makes this journey so fulfilling, so rewarding. 🌺💡
 
 ## 💪 The Strength of Never Giving Up
 
