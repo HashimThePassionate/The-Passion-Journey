@@ -1,4 +1,4 @@
-# 🌟 A Journey of Endless Curiosity and Unbreakable Spirit 🌟
+# 🌟A Journey of Endless Curiosity and Unbreakable Spirit🌟
 
 **🌈 Welcome to the world of passion!** This repository is not about code, ideas, or projects—it's about **passion**. It’s about the unstoppable fire that drives a curious mind forward. Here, I share not only passion but also my journey—one filled with a relentless hunger to grow, learn, and make a meaningful impact in the world. 🚀
 
